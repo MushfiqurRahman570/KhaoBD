@@ -1,0 +1,174 @@
+{
+  "appName": "KhaoBD",
+  "tagline": "Find great places to eat in Bangladesh",
+  "home": {
+    "byPlace": "Search by place",
+    "byPlaceSub": "Browse restaurants by neighborhood and city",
+    "byFood": "Search by food",
+    "byFoodSub": "Browse restaurants by cuisine"
+  },
+  "nav": {
+    "home": "Home",
+    "restaurants": "Restaurants",
+    "favorites": "Favorites",
+    "addRestaurant": "Add restaurant",
+    "about": "About us",
+    "login": "Log in",
+    "register": "Sign up",
+    "logout": "Log out",
+    "profile": "Profile"
+  },
+  "search": {
+    "placeholder": "Search restaurants, cuisines...",
+    "button": "Search",
+    "area": "Area",
+    "cuisine": "Cuisine",
+    "price": "Price",
+    "allAreas": "All areas",
+    "allCuisines": "All cuisines",
+    "anyPrice": "Any price",
+    "sortBy": "Sort by",
+    "sortRating": "Highest rated",
+    "sortReviews": "Most reviewed",
+    "sortNewest": "Newest",
+    "sortName": "Name"
+  },
+  "restaurant": {
+    "reviews": "reviews",
+    "review": "review",
+    "noReviews": "No reviews yet. Be the first to write one!",
+    "writeReview": "Write a review",
+    "bookTable": "Book a table",
+    "addFavorite": "Add to favorites",
+    "removeFavorite": "Remove from favorites",
+    "hours": "Hours",
+    "address": "Address",
+    "phone": "Phone",
+    "photos": "Photos",
+    "overview": "Overview",
+    "cuisines": "Cuisines",
+    "noPhotos": "No photos yet.",
+    "notFound": "This restaurant couldn't be found. It may have been removed."
+  },
+  "tabs": {
+    "overview": "Overview",
+    "menu": "Menu",
+    "reviews": "Reviews",
+    "photos": "Photos"
+  },
+  "menu": {
+    "empty": "Menu not available yet.",
+    "uncategorized": "Other",
+    "popular": "Popular",
+    "popularItems": "Popular picks"
+  },
+  "addRestaurant": {
+    "createTitle": "Add a restaurant",
+    "editTitle": "Edit restaurant",
+    "editButton": "Edit",
+    "subtitle": "Fill in the basic details first, then add photos and a menu.",
+    "basicInfo": "Basic information",
+    "nameEn": "Name (English)",
+    "nameBn": "Name (Bangla)",
+    "descriptionEn": "Description (English)",
+    "descriptionBn": "Description (Bangla)",
+    "category": "Category (e.g. Starters)",
+    "price": "Price (৳)",
+    "created": "Restaurant created. You can now add photos and a menu below.",
+    "savedInfo": "Changes saved.",
+    "createButton": "Create restaurant",
+    "photos": "Photos",
+    "photosSub": "Upload a few photos of the food and interior.",
+    "menu": "Menu",
+    "menuSub": "Add dishes with prices so diners know what to expect.",
+    "addMenuItem": "Add item",
+    "saveFirst": "Save the basic information first to unlock this section.",
+    "viewRestaurant": "View restaurant page",
+    "menuItemPhoto": "Dish photo"
+  },
+  "map": {
+    "title": "Location",
+    "unavailable": "Map location not available for this restaurant yet."
+  },
+  "profile": {
+    "settings": "Settings",
+    "avatar": "Profile photo",
+    "changeAvatar": "Change photo",
+    "editName": "Your name",
+    "saved": "Saved.",
+    "changePassword": "Change password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "passwordSaved": "Password updated."
+  },
+  "seo": {
+    "restaurantFallback": "Menu, reviews, and photos for restaurants in {{area}}, Bangladesh."
+  },
+  "review": {
+    "rating": "Overall rating",
+    "food": "Food",
+    "service": "Service",
+    "value": "Value",
+    "atmosphere": "Atmosphere",
+    "text": "Your review",
+    "textPlaceholder": "Share your experience...",
+    "visitedDate": "Date visited",
+    "submit": "Submit review",
+    "like": "Helpful",
+    "addPhotos": "Add photos"
+  },
+  "booking": {
+    "date": "Date",
+    "time": "Time",
+    "partySize": "Party size",
+    "note": "Note (optional)",
+    "submit": "Request booking",
+    "success": "Booking request sent! The restaurant will confirm shortly.",
+    "myBookings": "My bookings",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "cancelled": "Cancelled"
+    },
+    "cancel": "Cancel booking"
+  },
+  "auth": {
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "loginTitle": "Log in to your account",
+    "registerTitle": "Create an account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginButton": "Log in",
+    "registerButton": "Sign up"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "save": "Save",
+    "cancel": "Cancel",
+    "seeAll": "See all",
+    "noResults": "No restaurants found. Try adjusting your filters.",
+    "endOfResults": "You've reached the end of the list."
+  },
+  "about": {
+    "title": "About Us",
+    "tagline": "Helping you find great food across Bangladesh.",
+    "metaDescription": "Learn about KhaoBD — a restaurant discovery platform helping people across Bangladesh find great places to eat.",
+    "missionTitle": "Our mission",
+    "missionBody": "KhaoBD was built to make it easy to discover good restaurants across Bangladesh — from well-known spots in Dhaka to hidden gems in Chittagong and Sylhet. We believe finding a great meal shouldn't depend on word of mouth alone.",
+    "whatWeOfferTitle": "What we offer",
+    "offer1": "Browse restaurants by area, cuisine, and price range",
+    "offer2": "Real reviews and ratings from diners like you",
+    "offer3": "Menus with photos so you know what to expect before you go",
+    "offer4": "A bilingual experience in English and Bangla",
+    "contactTitle": "Get in touch",
+    "contactBody": "Have feedback, found an issue, or want to list your restaurant? Reach out at",
+    "exploreCta": "Explore restaurants"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "contact": "Contact"
+  }
+}
